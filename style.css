@@ -1,0 +1,52 @@
+*{
+    margin:1px;
+    padding: 1px;
+}
+h1 {
+    color: brown;
+    margin-left: 638px;
+}
+.front{
+    color: brown;
+    margin-left: 655px;
+    font-size: 20px;
+}
+.about{
+    color: brown;
+}
+.skills{
+    background-color: brown;
+}
+.experience{
+    color: brown;
+}
+.Professional{
+     margin-left: 638px;
+}
+table{
+    width: 100%;
+}
+img{
+    width: 60px;
+    height: 70px;
+}
+.tr-first{
+    background-color: brown;
+}
+td {
+    padding: 10px;
+}
+td ul {
+    padding-left: 20px;
+    margin: 0;
+    list-style-position: inside;
+}
+.contact{
+    color: brown;
+}
+.btn1{
+    background-color: blue;
+}
+.btn2{
+    background-color: red;
+}
